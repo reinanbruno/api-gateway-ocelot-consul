@@ -2,7 +2,7 @@
 using System.Net;
 using System.Net.Sockets;
 
-namespace Shared.Extensions
+namespace Shared.Utils
 {
     public static class IpAddress
     {
